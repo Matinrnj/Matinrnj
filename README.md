@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Matin
-- 👀 I’m interested in Machine learning,UI and Data mining
+- 👀 I’m interested in Machine learning,AI and Data mining
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on UI projects
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me 
 - mohammadmatin.rezanejad@gmail.com
 - https://www.linkedin.com/in/matin-rezanejad-130a4b207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3JalIJ1ERAaj1is1enuOSg%3D%3D
