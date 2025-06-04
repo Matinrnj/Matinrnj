@@ -1,13 +1,7 @@
-- 👋 Hi, I’m Matin
-- 👀 I’m interested in Machine learning,AI and Data mining
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AI projects
-- 📫 How to reach me 
-- mohammadmatin.rezanejad@gmail.com
-- https://www.linkedin.com/in/matin-rezanejad-130a4b207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B3JalIJ1ERAaj1is1enuOSg%3D%3D
-- 
-
-<!---
-Matinrnj/Matinrnj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Matin
+🎓 Undergraduate student in Data Analytics at Università degli Studi della Campania “Luigi Vanvitelli”
+🎓 Double degree candidate in Computer Science at Université Sorbonne Paris Nord
+📊 Passionate about data science, machine learning, and statistical modeling
+💻 Skilled in Python, R, MATLAB, SQL, and LaTeX
+📈 I enjoy transforming raw data into actionable insights through analysis and visualization
+🌍 Interested in research, international collaboration, and real-world impact through data
